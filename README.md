@@ -3,3 +3,7 @@ I developed a project to address the growing mental health crisis among high sch
 <div>
 Through this project, I learned to work with large amounts of data with numpy and pandas and how to visualize models with seaborn. Additionally, I learned the basics of machine learning and utilized a neural network as well as linear regression in my project. Other code libraries that were used includes tensorflow and sklearn.
 </div>
+
+<div>
+  Paper Link: [https://www.jsr.org/hs/index.php/path/article/view/4743](url)
+</div>
